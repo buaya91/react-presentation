@@ -5,3 +5,6 @@
 # IntelliJ project files
 .idea
 *.iml
+node_modules
+dist
+.idea/workspace.xml
